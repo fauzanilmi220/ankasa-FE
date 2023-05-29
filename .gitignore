@@ -36,3 +36,5 @@ next-env.d.ts
 tailwind.config.js
 next.config.js
 .next
+
+.env
