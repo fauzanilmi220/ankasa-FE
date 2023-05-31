@@ -27,14 +27,11 @@ yarn-error.log*
 # local env files
 .env*.local
 
-# vercel
+# vercelw
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-tailwind.config.js
-next.config.js
-.next
 
 .env
