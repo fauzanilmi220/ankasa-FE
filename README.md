@@ -47,4 +47,7 @@ There are some software that must be installed first before going to installatio
 
 
 ## Related Project
-:rocket: [Backend Repo](https://github.com/fauzanilmi220/Ankasa-BE)
+🚀 : [Backend Repo](https://github.com/fauzanilmi220/Ankasa-BE)
+
+## Demo 
+🚀 : [Demo Aplikasi](https://github.com/fauzanilmi220/ankasa-FE/deployments/activity_log?environment=Production)
