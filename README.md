@@ -50,4 +50,4 @@ There are some software that must be installed first before going to installatio
 🚀 : [Backend Repo](https://github.com/fauzanilmi220/Ankasa-BE)
 
 ## Demo 
-🚀 : [Demo Aplikasi](https://github.com/fauzanilmi220/ankasa-FE/deployments/activity_log?environment=Production)
+🚀 : [Demo Aplikasi](https://ankasa-fe.vercel.app/)
