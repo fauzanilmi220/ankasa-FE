@@ -1,7 +1,7 @@
 # ankasa-FE
 <div align="center">
     <h3 align="center">Ankasa Website</h3>
-    <img src='https://user-images.githubusercontent.com/126861853/244945904-ac9780fa-cae4-4c1b-baa1-8385134917bd.png' width="150" height="150" />
+    <img src='https://user-images.githubusercontent.com/126861853/244945904-ac9780fa-cae4-4c1b-baa1-8385134917bd.png' width="100" height="70" />
 </div>
 
 ## Table of Contents]
@@ -74,3 +74,7 @@ There are some software that must be installed first before going to installatio
 
 ## Demo 
 🚀 : [Demo Aplikasi](https://ankasa-fe.vercel.app/)
+
+
+## License
+Distributed under the [MIT](/LICENSE) License.
