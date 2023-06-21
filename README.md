@@ -60,14 +60,14 @@ There are some software that must be installed first before going to installatio
 ```
 
 ## Documentation
-| ![image](https://user-images.githubusercontent.com/126861853/242146591-3d4f99f7-32a1-487c-9ebf-68345fed49e9.png) | ![image](https://user-images.githubusercontent.com/126861853/242146601-bef9f698-51d8-466d-9989-88f39d7e9304.png) |
+| ![image](https://user-images.githubusercontent.com/126861853/247622064-3d92a577-94a7-4b01-80cf-e6d242388506.png) | ![image](https://user-images.githubusercontent.com/126861853/247622088-1c79ee52-cc2f-467d-9b3e-17e92f632f20.png) |
 |----------------------------------|-----------------------------------|
 | Homepage                         | Login Page                        |
-|![image](https://user-images.githubusercontent.com/126861853/242146603-8d2e1e22-6e5c-49a5-a07a-b34b54b9ea8b.png) | ![image](https://user-images.githubusercontent.com/126861853/242146605-5bafc2ce-6f4a-4fd5-a7d5-a4c4d3e4df6a.png) |
+|![image](https://user-images.githubusercontent.com/126861853/247622092-b59b2ccf-3ddf-4e53-a406-f4017ab3ba50.png) | ![image](https://user-images.githubusercontent.com/126861853/247622099-7d237050-c53c-48bd-bee2-c0211b32b1a7.png) |
 | Reset Password Page                    | Register Page                      |
-| ![image](https://user-images.githubusercontent.com/126861853/242146610-ef76c880-1cda-4488-a64e-e9b302f62ff2.png) | ![image](https://user-images.githubusercontent.com/126861853/242146614-aba4050f-f59a-4756-a22c-f33f8bc664d3.png) |
+| ![image](https://user-images.githubusercontent.com/126861853/247622119-41d8a0fd-c492-48ce-9eb5-c1bef6bb614f.png) | ![image](https://user-images.githubusercontent.com/126861853/247622639-2ba8080e-0902-4429-86ee-4c7deac76ca4.png) |
 | Search Ticket Page               | E-Ticket Page               |
-| ![image](https://user-images.githubusercontent.com/126861853/247616296-b99ffc72-ac6d-4df6-b357-fcdda8a738d4.png) | ![image](https://user-images.githubusercontent.com/126861853/247618888-f8da93dc-e3e5-4e80-a3f5-7ec1ffcf384a.png) |
+| ![image](https://user-images.githubusercontent.com/126861853/247622110-8a4b986a-cb6f-490a-91b7-6694141b16fc.png) | ![image](https://user-images.githubusercontent.com/126861853/247622130-2048762f-81e7-40d8-a0db-4146158ebdf6.png) |
 | Booking Ticket Page               | Profile Page              |
 
 
