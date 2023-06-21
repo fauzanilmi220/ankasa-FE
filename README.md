@@ -67,6 +67,8 @@ There are some software that must be installed first before going to installatio
 | Reset Password Page                    | Register Page                      |
 | ![image](https://user-images.githubusercontent.com/126861853/242146610-ef76c880-1cda-4488-a64e-e9b302f62ff2.png) | ![image](https://user-images.githubusercontent.com/126861853/242146614-aba4050f-f59a-4756-a22c-f33f8bc664d3.png) |
 | Search Ticket Page               | E-Ticket Page               |
+| ![image](https://user-images.githubusercontent.com/126861853/247616296-b99ffc72-ac6d-4df6-b357-fcdda8a738d4.png) | ![image](https://user-images.githubusercontent.com/126861853/247618888-f8da93dc-e3e5-4e80-a3f5-7ec1ffcf384a.png) |
+| Booking Ticket Page               | Profile Page              |
 
 
 ## Related Project
